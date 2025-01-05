@@ -1,0 +1,6 @@
+@article{REPO184,
+    author = "Li, Junbo and Miao, Zichen and Qiu, Qiang and Zhang, Ruqi",
+    journal = "arXiv preprint arXiv:2402.11025",
+    title = "{Training Bayesian Neural Networks with Sparse Subspace Variational Inference}",
+    year = "2024"
+}
